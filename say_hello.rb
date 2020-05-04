@@ -1,3 +1,6 @@
-def say_hello(name ="Ruby Programmer")
-  puts "Hello #{name}!"
+def parrot(name="Squawk!")
+  puts#{"name"}
+end
+parrot("Pretty bird")
+end
 end
